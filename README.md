@@ -6,40 +6,6 @@ Sujet
 
 <html>
 <body>
-  <div class="panel-heading panel-header">FDI-DTS1 / The Hyrule Castle</div>
-  <div class="panel-heading panel-module">Terms and Conditions</div>
-  <div class="panel-body">
-    <table>
-      <thead>
-        <tr>
-          <th>Type</th>
-          <th>Description</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Repository</td>
-          <td>https://rendu-git.etna-alternance.net/module-9182/activity-50203/group-991688</td>
-        </tr>
-        <tr>
-          <td>Required file</td>
-          <td>hyrule_castle.ts + any <code>.ts</code> file</td>
-        </tr>
-        <tr>
-          <td>Correction</td>
-          <td>Oral defense</td>
-        </tr>
-        <tr>
-          <td>Duration</td>
-          <td>4 days</td>
-        </tr>
-        <tr>
-          <td>Group size</td>
-          <td>Solo or Group of 2</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
   <div class="panel-heading panel-objective">Objectives</div>
   <div class="panel-body">
     <ul>
